@@ -70,7 +70,8 @@ body{
 }
 .titreentete{
     font-family: 'Barlow', serif;
-    background-color: #BD56BA;
+    padding-top: 20%;
+    letter-spacing: 0.5rem;
 }
 .para{
     width:50%
@@ -84,9 +85,6 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-.couteau{
-width: 20%;
-height: 20%;
-margin-top: 10%;
-background-color: yellow;
+.logomedu{
+    width: 10%;
 }
